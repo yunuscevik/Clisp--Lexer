@@ -14,6 +14,17 @@ Projenin kod blokları ile ilgili açıklamalar "141044080.cl" dosyası içerisi
 
 Ayrıca negative integer değerler içinde kontroller yapılmıştır ve gerekli errorler belirtilmiştir.
 
+Sample: 
+
+(deffun sumup (x)
+	(if (equal x 0)
+		-1001
+		(+ x (sumup (- x 1)))
+	)
+)
+	
+(sumup 8)
+
 
 Sample-Output: 
 ![alt text](https://github.com/yunuscevik/Clisp--Lexer/blob/master/ScreenShot/g%2B%2BSample-Output.png "Logo Title Text 1")
