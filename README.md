@@ -16,8 +16,8 @@ Ayrıca negative integer değerler içinde kontroller yapılmıştır ve gerekli
 
 
 Sample-Output: 
-![alt text](https://github.com/yunuscevik/Clisp--Lexer/blob/master/ReadMe_ScreenShot/g%2B%2BSample-Output.png "Logo Title Text 1")
+![alt text](https://github.com/yunuscevik/Clisp--Lexer/blob/master/ScreenShot/g%2B%2BSample-Output.png "Logo Title Text 1")
 
 
 Sample-Error-Output: 
-![alt text](https://github.com/yunuscevik/Clisp--Lexer/blob/master/ReadMe_ScreenShot/g%2B%2BSample-Error-Output.png "Logo Title Text 1")
+![alt text](https://github.com/yunuscevik/Clisp--Lexer/blob/master/ScreenShot/g%2B%2BSample-Error-Output.png "Logo Title Text 1")
