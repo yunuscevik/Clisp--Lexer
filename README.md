@@ -15,7 +15,7 @@ Projenin kod blokları ile ilgili açıklamalar "141044080.cl" dosyası içerisi
 
 Ayrıca negative integer değerler içinde kontroller yapılmıştır ve gerekli errorler belirtilmiştir.
 
-Sample: 
+### Sample-Code: 
 
 (deffun sumup (x)
 
@@ -32,9 +32,9 @@ Sample:
 (sumup 8)
 
 
-Sample-Output: 
+### Sample-Output: 
 ![alt text](https://github.com/yunuscevik/Clisp--Lexer/blob/master/ScreenShot/g%2B%2BSample-Output.png "Logo Title Text 1")
 
 
-Sample-Error-Output: 
+### Sample-Error-Output: 
 ![alt text](https://github.com/yunuscevik/Clisp--Lexer/blob/master/ScreenShot/g%2B%2BSample-Error-Output.png "Logo Title Text 1")
